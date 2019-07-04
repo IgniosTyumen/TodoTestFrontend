@@ -1,0 +1,43 @@
+.flex-block {
+    display: flex;
+    flex-grow: 1;
+    width: 700px;
+
+}
+
+.divBlock{
+    display: flex;
+    margin-right: 0px;
+    margin-left: auto;
+    min-width: 30%;
+    max-width: 50%;
+}
+
+.search-panel {
+    width: 25%;
+    height: calc(0.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-radius: 0.25rem;
+    min-width:50%;
+
+}
+
+.button-block{
+
+    height: calc(0.5em + 0.75rem + 2px);
+}
+
+
+.search-panel:focus{
+    outline-color: black;
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+

@@ -1,0 +1,11 @@
+.button-block{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-left: 0;
+    max-height: 38px;
+}

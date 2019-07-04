@@ -1,0 +1,24 @@
+.button-style{
+    height: 100%;
+    min-width: 80px;
+    color: #fff;
+    background-color: #E95420;
+    border-color: #E95420;
+
+}
+
+.li-style{
+    flex-basis: 50px;
+    max-height: 38px;
+}
+
+.button-style:focus{
+    color:#495057;
+    outline-style: solid;
+    outline-color: black;
+    outline-width: 2px;
+}
+.button-style:active{
+    background-color: #495057;
+    color: #fff;
+}

@@ -1,0 +1,44 @@
+
+
+.button-style{
+    height: 100%;
+    background-color: #E95420;
+    border-color: #E95420;
+    margin-right: 10px;
+}
+
+.li-style{
+    flex-basis: 50px;
+    max-height: 38px;
+}
+
+.button-style:focus{
+    color:#495057;
+    outline-style: solid;
+    outline-color: black;
+    outline-width: 2px;
+}
+.button-style:active{
+    background-color: #495057;
+    color: #fff;
+}
+
+.button-style.icon.regular{
+     display: block;
+     text-indent: -9999px;
+     width: 50px;
+     height: 50px;
+     background: url(warning.svg), red;
+     background-size: contain;
+
+ }
+
+.button-style.icon.important{
+    display: block;
+    text-indent: -9999px;
+    width: 50px;
+    height: 50px;
+    background: url(warning.svg), greenyellow;
+    background-size: contain;
+
+}

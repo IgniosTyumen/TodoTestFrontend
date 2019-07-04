@@ -1,0 +1,9 @@
+.root-container {
+    display: flex;
+}
+
+.header-splitter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

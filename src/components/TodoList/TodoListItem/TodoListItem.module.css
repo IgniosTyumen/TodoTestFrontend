@@ -1,0 +1,31 @@
+.todo-list-item {
+    min-width: inherit;
+    tab-index: 0;
+    vertical-align: middle;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.is-important {
+    color: red;
+}
+
+.is-regular {
+    color: black;
+}
+
+.button-block {
+    display: flex;
+    flex-direction: row;
+}
+
+.text-block{
+ margin: auto;
+}
+
+.text-block-main {
+    display: flex;
+}

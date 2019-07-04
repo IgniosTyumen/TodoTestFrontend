@@ -1,0 +1,17 @@
+.app-name {
+    font-family: "Ubuntu", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: white;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 45%;
+    background-color: #E95420;
+}
+
+.todos-counter {
+    margin: 0;
+    margin-left: auto;
+    size: 300px;
+    background-color: #e9ecef;
+    font-family: "Ubuntu", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
